@@ -90,7 +90,7 @@ export default function App() {
               </h2>
 
               <img
-                src="euevalen3.jpeg"
+                src="/euevalen3.jpeg"
                 alt="Nós"
                 className="rounded-3xl w-full h-[450px] object-cover mb-8 hover:scale-105 transition duration-500"
               />
